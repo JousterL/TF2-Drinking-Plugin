@@ -13,3 +13,6 @@ The plugin operates on the number of asterisks at the end of a player's name. Th
 - \*\*\*\* NikkyVix's Suicide Cirrhosis Mode: Originally a bug, now a feature! Not only operating on Extreme mode, but any time you make someone take a drink, those drinks are also reflected back on you. Guaranteed to be sloshed by the end of the night.
 
 So a player named "Johnny Doe\*" would be playing Basic rules, and a player named "Doomin and Coomin***" would be playing Extreme mode.
+
+Based on the original ruleset:
+<img src="DrinkingGameRules.png">
